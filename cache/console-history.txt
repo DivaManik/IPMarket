@@ -1,0 +1,5 @@
+await lm.totalOffers();
+const lm = await ethers.getContractAt("LicenseManager", "0x68B1D87F95878fE05B998F19b66F4baba5De1aed");
+await lm.totalOffers();
+const lm = await ethers.getContractAt("LicenseManager","0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+const lm = await ethers.getContractAt("LicenseManager", "0x68B1...");

@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Counters",
+  "sourceName": "contracts/MarketAsset.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212204185514d503ec7d4a45c911ae92561478afda738e7e732c46a07b562e0b47e5364736f6c634300081c0033",
+  "deployedBytecode": "0x600080fdfea26469706673582212204185514d503ec7d4a45c911ae92561478afda738e7e732c46a07b562e0b47e5364736f6c634300081c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
